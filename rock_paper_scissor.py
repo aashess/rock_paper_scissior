@@ -66,5 +66,5 @@ if user_choice != computer_choice:
     else:
         print("You won")
 else:
-    print("Try again Both of You selected same value.")
+    print("Try again Both of You selected same val.")
 
